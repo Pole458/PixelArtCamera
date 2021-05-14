@@ -4,6 +4,10 @@
 
 ![alt text](/Cover%20Image.png)
 
+## Asset Store
+
+You can find this tool on the Unity Asset Store [here](http://u3d.as/2xP8)
+
 ## How it works
 
 This tool works by rendering the game at the target resolution and then upscale it by the biggest possible integer factor.
